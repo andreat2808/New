@@ -1,1 +1,2 @@
 "Tekst.txt promijenjen" 
+Novi tekst na glavnoj grani
